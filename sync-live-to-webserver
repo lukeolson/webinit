@@ -1,0 +1,2 @@
+#!/bin/sh
+rsync -ravz -e ssh --delete ./live/ USERNAME@SERVER:~/public_html/.
