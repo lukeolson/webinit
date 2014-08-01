@@ -6,7 +6,7 @@ Simple site starter.
 requirements
 ============
 Mako (and Python)
-curl
+wget
 
 installation
 ============
