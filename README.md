@@ -16,6 +16,7 @@ This downloads bootstrap and font-awesome, unzips, and puts them in the live dir
 ```
 git clone https://github.com/lukeolson/webinit.git
 cd webinit
-#rm -rf .git
 ./get-bootstrap-font-awesome.sh
 ```
+
+You can also remove the `.git` directory if you wish.
